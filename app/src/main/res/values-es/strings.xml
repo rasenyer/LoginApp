@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="name">Nombre</string>
+    <string name="username">nombre de usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="register">Registrarse</string>
+    <string name="details">Detalles</string>
+    <string name="link_profile_picture">Enlace de la foto de perfil</string>
+    <string name="you_do_not_have_an_account_sign_up">¿No tienes una cuenta? Regístrate</string>
+    <string name="all_fields_are_required">Todos los campos son obligatorios.</string>
+    <string name="username_does_not_exist_please_register">El nombre de usuario no existe, regístrese.</string>
+    <string name="your_password_is_wrong_please_check_your_password">Su contraseña es incorrecta, verifique su contraseña.</string>
+    <string name="username_already_registered_try_another">El nombre de usuario ya está registrado, pruebe con otro.</string>
+</resources>
